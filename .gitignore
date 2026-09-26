@@ -1,0 +1,16 @@
+# Web
+web/node_modules/
+web/.next/
+web/out/
+web/.vercel/
+
+# Android
+android/.gradle/
+android/local.properties
+android/**/build/
+*.iml
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

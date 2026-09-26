@@ -1,0 +1,15 @@
+{
+  "name": "திருக்குறள் Daily",
+  "short_name": "திருக்குறள்",
+  "description": "ஒவ்வொரு நாளும் ஒரு திருக்குறள் மற்றும் அதன் தமிழ் பொருள்.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#14100c",
+  "theme_color": "#14100c",
+  "lang": "ta",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/icon-maskable.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}

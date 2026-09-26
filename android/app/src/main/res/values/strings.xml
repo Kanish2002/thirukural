@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">திருக்குறள் Daily</string>
+    <string name="widget_description">ஒவ்வொரு நாளும் ஒரு திருக்குறள் மற்றும் தமிழ் பொருள்</string>
+    <string name="loading">திருக்குறள் ஏற்றப்படுகிறது…</string>
+</resources>
